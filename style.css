@@ -1,0 +1,104 @@
+h1{
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    text-align:center;
+}
+footer{
+    position: relative;
+    top:20px;
+   
+}
+
+
+p{
+    font-size:12px;
+}
+
+
+header{
+    background-color: black;
+    font-family: 'Poiret One', cursive;
+}
+body{
+    background-color:black;
+    
+
+}
+ul {
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float:none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+                   
+    
+}
+p{
+    color:black;
+    font-size:12px;
+    font-family: 'Neucha', cursive;
+}
+img  {
+    border:5px solid orange;
+    height:auto;
+    max-width: 100%;
+    margin: auto;
+    display:block;
+    position:relative;
+    top:5px;
+    bottom:3px;
+   
+  }
+            
+
+.back{
+    color:black;
+    
+}
+h4{
+    color:black;
+    font-family: cursive;
+}
+        
+
+
+.blaj{
+    border:5px solid green;
+}
+table{
+    font-size:20px;
+    
+    font-family: serif;
+}
+/*This is the css for tilting the image to the left side*/
+.tilted {
+  -webkit-transition: margin 1s ease;
+     -moz-transition: margin 1s ease;
+       -o-transition: margin 1s ease;
+          transition: margin 1s ease;
+}
+ 
+.tilted:hover {
+  -webkit-transform: rotate(3deg);
+     -moz-transform: rotate(3deg);
+       -o-transform: rotate(3deg);
+          transform: rotate(3deg);
+}
+h2{
+    color:red;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+h3{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
